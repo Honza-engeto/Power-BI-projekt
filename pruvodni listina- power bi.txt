@@ -1,0 +1,81 @@
+------------------------------------
+Stránka 1 – Vývoj mezd podle odvětví
+------------------------------------
+
+Tato vizualizace zobrazuje vývoj průměrných mezd v jednotlivých hospodářských odvětvích v České republice v průběhu let. Cílem je ukázat, zda rostou mzdy napříč všemi odvětvími rovnoměrně, nebo se v některých sektorech zvyšují výrazněji než v jiných.
+
+Pomocí časového sliceru lze omezit zobrazené roky na konkrétní období. Uživateli je rovněž umožněn výběr konkrétních odvětví, díky čemuž lze porovnat např. vývoj ve státní správě a IT sektoru.
+
+Z grafu je patrné, že:
+
+dlouhodobě rostou mzdy téměř ve všech odvětvích,
+
+nejvyšší dynamiku růstu vykazuje sektor Informačních a komunikačních činností,
+
+naopak odvětví jako ubytování, stravování a pohostinství rostou pomaleji a často s výkyvy.
+
+------------------------------
+Stránka 2 – Vývoj cen potravin
+------------------------------
+
+Na této stránce je vizualizován stav a vývoj cen základních potravin v jednotlivých krajích České republiky.
+
+Mapový vizuál umožňuje zobrazit prostorové rozdíly v cenách – čím větší kruh, tím vyšší cena vybrané potraviny v daném kraji. Lze jednoduše porovnat cenové hladiny mezi regiony, například mezi Prahou a Ústeckým krajem.
+
+Sloupcový graf pod mapou umožňuje porovnání cen jednotlivých potravin (např. hovězí maso, jablka, chléb) pro zvolený rok a jednotku (kg, ks, l). Využitím filtrů vpravo může uživatel:
+
+zvolit konkrétní rok,
+
+vybrat produkt či typ jednotky,
+
+případně filtrovat jen vybrané kraje.
+
+Z dat vyplývá, že ceny potravin se napříč kraji často liší – Praha a Jihomoravský kraj mívají vyšší průměrné ceny než například Moravskoslezský nebo Ústecký kraj.
+
+Z grafu je patrné, že potraviny dlouhodobě zdražují. Nejrychleji zdražují máslo a papriky.
+
+----------------------------------
+Stránka 3 – Vývoj mezd podle krajů
+----------------------------------
+
+Tato stránka se zaměřuje na vývoj průměrné hrubé mzdy v jednotlivých krajích České republiky napříč časem.
+
+Sloupcový graf umožňuje okamžitý přehled rozdílů v úrovních mezd mezi kraji ve vybraném roce. Typicky platí, že:
+
+Nejvyšší mzdy jsou dlouhodobě v Hlavním městě Praha,
+
+Naopak nejnižší průměrné mzdy mívají kraje Karlovarský a Zlínský.
+
+Na této stránce je možné interaktivně si nastavit:
+
+konkrétní rok pomocí sliceru,
+
+pohlaví – muž, žena, nebo obě pohlaví dohromady,
+
+a také metodiku výpočtu – průměr nebo medián, čímž lze lépe pochopit vliv extrémních hodnot.
+
+Pomocé těchto filtrů lze například snadno porovnat, zda se rozdíly v mzdách mezi muži a ženami v jednotlivých krajích zmenšují či zůstávají stabilní.
+
+------------------------------------
+4 – Kupní síla a dostupnost potravin
+------------------------------------
+
+Na této stránce je přehledně vizualizováno, kolik jednotek vybraných potravin si může člověk koupit z průměrné hrubé mzdy v daném roce. Tento přístup propojuje dvě klíčové proměnné projektu – vývoj mezd a ceny potravin – a umožňuje snadno posoudit, jak se mění reálná dostupnost základního zboží.
+
+Sloupcový graf ukazuje vývoj dostupnosti vybraného produktu v čase – např. kolik litrů mléka nebo kilogramů chleba si mohl průměrný občan koupit v roce 2006 a kolik v roce 2018.
+
+Uživatel si může zvolit:
+
+typ produktu,
+
+jednotku (např. kg, ks, l),
+
+a také rok, případně si nastavit celkové období.
+
+Vypočtená metrika Jednotek_na_mzdu bere v úvahu průměrnou mzdu a průměrnou cenu vybraného produktu v daném roce. Tento pohled názorně ukazuje, jak se vyvíjí kupní síla obyvatelstva, a dává odpověď na otázky typu:
+
+Zdražuje produkt rychleji než rostou mzdy?
+
+Zlepšuje se životní úroveň, nebo naopak stagnuje?
+
+Výstupy ukazují, že u některých potravin (např. mléko) se dostupnost zvyšovala, zatímco u jiných (např. máslo) naopak výrazně klesala, což reflektuje změny v trhu i spotřebitelském chování.
